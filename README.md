@@ -19,3 +19,9 @@ Credentials for db access are obtained from envs and can be exported like this:
     export APP_DB_USERNAME=pg_username
     export APP_DB_PASSWORD=pg_password
     export APP_DB_NAME=pg_db
+
+ //localhost:8080/api/v10/minhacesta/{uf}/{city}/{district}/{product}
+
+Dockerfile:
+    docker build -t go-api .
+    docker run --name go-api -d -p 8080:8080 go-api
