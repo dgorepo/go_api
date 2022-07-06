@@ -1,6 +1,7 @@
 # go_api
 
 
+Author: Adilton Costa
 
 
 Very simples API built in GO! to fetch data from a DataWarehouse.
