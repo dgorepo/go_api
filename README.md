@@ -3,7 +3,7 @@
 
 Author: Adilton Costa
 Year: 2022
-E-mail: @
+E-mail: diego@gmail.com
 
 Very simples API built in GO! to fetch data from a DataWarehouse.
 <br></br>
