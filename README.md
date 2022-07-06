@@ -2,7 +2,7 @@
 
 
 Author: Adilton Costa
-
+Year: 2022
 
 Very simples API built in GO! to fetch data from a DataWarehouse.
 <br></br>
